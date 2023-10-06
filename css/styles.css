@@ -11697,22 +11697,22 @@ section#contact form#contactForm :-ms-input-placeholder {
 
 * {
   scrollbar-width: thin;
-  scrollbar-color: #212529 #212529;
+  scrollbar-color: black;
 }
 
 /* Chrome, Edge, and Safari */
 *::-webkit-scrollbar {
-  width: 1px;
+  width: 10px;
 }
 
 *::-webkit-scrollbar-track {
-  background: #212529;
+  background: #bbb;
 }
 
 *::-webkit-scrollbar-thumb {
-  background-color: #212529;
+  background-color: black;
   border-radius: 10px;
-  border: 1px solid #212529;
+  border: 1px solid #fff;
 }
 
 #logo {
